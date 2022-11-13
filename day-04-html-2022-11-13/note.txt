@@ -1,0 +1,10 @@
+1.In default,html and body tags comes with width 100%
+but height is not 100%.so we need add that.
+2.In seo,normally one h1 tag is recommended.
+
+
+3.whatsapp popup
+
+i.property="og:title"
+ii.property="og:description"
+iii.property="og:image"
